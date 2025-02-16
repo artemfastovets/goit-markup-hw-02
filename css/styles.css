@@ -35,7 +35,7 @@ a {text-decoration: none;}
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #434455;
     }
 
 .contact-link:hover {color: #404BBF;}
@@ -98,7 +98,7 @@ a {text-decoration: none;}
     color: #2e2f42;}
 .portfolio-title {font-weight: 500;
     font-size: 20px;
-    line-height: 1.5;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -106,3 +106,4 @@ address {font-style: normal}
 .portfolio-description {line-height: 1.5;
     letter-spacing: 0.02em;}
 .contact-list {color: #434455 }
+.contact-item {color: #434455;}
