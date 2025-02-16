@@ -17,30 +17,29 @@ a {text-decoration: none;}
     color: #4d5ae5;}
 
 .header-logo .logo-part {color: #2E2F42;}
-
-.nav-link {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-    text-decoration: none;
-}
-.nav-link:hover, .nav-link:focus {
-    color: #404bbf;
-}
+    .nav-link {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+        text-decoration: none;
+    }
+    .nav-link:hover, .nav-link:focus {
+        color: #404bbf;
+    }
 
 .contacts {font-style: normal;}
 
-.contact-link {
+.contacts-link {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #2E2F42;
     }
 
-.contact-link:hover {color: #404BBF;}
-.contact-link:focus {color: #404BBF;} 
+.contacts-link:hover {color: #404BBF;}
+.contacts-link:focus {color: #404BBF;} 
 
 .page-footer {background-color: #2E2F42;}
 .footer-logo .logo-part {color: #F4F4FD}
@@ -72,17 +71,17 @@ a {text-decoration: none;}
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #434455;}
 .item-header {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
 }
 .item-paraghraf { font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
 }
 .team-header {font-size: 36px;
     line-height: 1.11;
@@ -96,15 +95,15 @@ a {text-decoration: none;}
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2e2f42;}
+    color: #434455;}
 .portfolio-title {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
 }
 .portfolio-description {font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #434455;}
 address {font-style: normal}
