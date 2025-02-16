@@ -32,15 +32,15 @@ a {text-decoration: none;}
 
 .contacts {font-style: normal;}
 
-.contacts-link {
+.contact-link {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #2E2F42;
     }
 
-.contacts-link:hover {color: #404BBF;}
-.contacts-link:focus {color: #404BBF;} 
+.contact-link:hover {color: #404BBF;}
+.contact-link:focus {color: #404BBF;} 
 
 .page-footer {background-color: #2E2F42;}
 .footer-logo .logo-part {color: #F4F4FD}
@@ -106,17 +106,5 @@ a {text-decoration: none;}
 .portfolio-description {font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;}
+    color: #2e2f42;}
 address {font-style: normal}
-.contact-list {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.contact-link {
-    font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-        text-decoration: none;
-}
