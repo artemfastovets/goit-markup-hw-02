@@ -16,7 +16,7 @@ a {text-decoration: none;}
     text-transform: uppercase;
     color: #4d5ae5;}
 
-.header-logo .logo-part {color: #2E2F42;}
+.header-logo .logo-part {color: #2e2f42;}
 
 .nav-link {
     font-weight: 500;
@@ -108,3 +108,4 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;
     color: #434455;}
 address {font-style: normal}
+span {color: #2e2f42;}
