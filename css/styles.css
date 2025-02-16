@@ -43,7 +43,9 @@ a {text-decoration: none;}
 
 .page-footer {background-color: #2E2F42;}
 .footer-logo .logo-part {color: #F4F4FD}
-.footer-text{color: #F4F4FD;}
+.footer-text{color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;}
 .team {background-color: #F4F4FD;}
 .button-section {
     background-color: #2e2f42;
@@ -65,7 +67,11 @@ a {text-decoration: none;}
 }
 .header-button:hover {background-color: #404BBF}
 .header-button:focus {background-color: #404BBF}
-.items {}
+.items-list {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
 .item-header {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
