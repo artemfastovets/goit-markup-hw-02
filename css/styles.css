@@ -94,6 +94,7 @@ a {text-decoration: none;}
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
+    line-height: 1.2;
     text-transform: capitalize;
     color: #2e2f42;}
 .portfolio-title {font-weight: 500;
@@ -107,3 +108,4 @@ address {font-style: normal}
     letter-spacing: 0.02em;}
 .contact-list {color: #434455 }
 .contact-item {color: #434455;}
+.portfolio{background-color: #FFFFFF;}
